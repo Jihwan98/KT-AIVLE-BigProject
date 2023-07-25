@@ -1,10 +1,10 @@
 # 🐶 강아지킴
 
-![LogoView](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/8daa18ea-5847-4f7d-8d69-b75ad407cf1f)
+![LogoView](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/c19821f8-b426-4f31-83a1-9ab7ca0ce334)
 
 ### 📱Android APK 파일
 
-<img src="https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/8ec7a9bb-440d-4bf7-981f-e8aa6240c6ec" width="200">
+<img src="https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/cf1aa9a9-359e-4329-93cb-b94a7af6a6ef" width="200">
 
 ## 😊 Members
 
@@ -53,12 +53,12 @@
 **Backend 서버**의 경우 **AWS EC2**를 사용하고, DB와 Storage를 **RDS**와 **S3**로 분리해서 구현했습니다.  
 DB는 **MySQL**을 사용했고, API 서버는 **NGINX**로 배포 하였습니다.
 
-![전체 아키텍처](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/9f958b9e-3da3-4145-a93d-a0e9a536e38b)
+![전체 아키텍처](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/d7795a8d-b50e-4301-b23d-d58b8d8661f3)
 
 ### ✅ API 명세서
 
 API에 대한 내용들은 Notion에 API 명세서를 작성하여 관리했습니다. [[API 명세서 링크]](https://www.notion.so/957e66a93eee468b9ad01613f041ea0a?pvs=21)
-![api 명세서 캡처 다크모드](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/bb6fab82-b82c-4d00-9314-b4c071eea5d8)
+![api 명세서 캡처 다크모드](https://github.com/Jihwan98/KT-AIVLE-BigProject/assets/76936390/b353e489-9e9d-4f16-bd75-72b80ddbf274)
 
 ### ✅ 로그인 관련 구현
 
